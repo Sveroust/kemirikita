@@ -1,0 +1,6 @@
+LETAKKAN FILE MEDIA ASLI ANDA DI FOLDER INI (assets/):
+1. candlenut-hero.jpg          (Foto utama biji kemiri komersial)
+2. kemiri-whole-vacuum.jpg     (Foto kemasan vakum kemiri bulat utuh)
+3. kemiri-split-vacuum.jpg     (Foto kemasan vakum kemiri belah bersih)
+4. kemiri-vacuum-whole.mp4     (Video uji kekedapan vakum kemiri bulat)
+5. kemiri-vacuum-split.mp4     (Video uji kekedapan vakum kemiri belah)
